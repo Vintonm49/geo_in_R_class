@@ -1,0 +1,2 @@
+book_filename: "geospatial"
+rmd_files: ["index.Rmd","01-geospatial.Rmd"]

@@ -1,0 +1,16 @@
+bookdown::gitbook:
+  css: style.css
+  split_by: 'section+number'
+  config:
+    sharing: null
+    toc:
+      before: |
+        <li><a href = "/">Course Home</a></li>
+        <li><a href="./">Geospatial</a></li>
+    download: ["pdf"]
+bookdown::pdf_book:
+  includes:
+    in_header: preamble.tex
+  latex_engine: xelatex
+  keep_tex: yes
+

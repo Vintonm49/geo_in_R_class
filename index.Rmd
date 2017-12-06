@@ -1,0 +1,23 @@
+--- 
+title: "Geospatial in R"
+author: "LTC Melanie Vinton"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: memoir
+description: "This is an introduction to making maps in R."
+always_allow_html: yes
+classoption: oneside
+---
+
+# Geospatial Module Intro
+
+** First, restart your R session.**
+
+- There are multiple packages in R that allow you to "roll your own maps" without expensive and often not available GIS software.  
+
+- These packages also offer functions to enable geospatial analysis and manipulation of spatial data.
+
+- The goal of this module is to demonstrate some simple methods for creating maps and displaying data on maps.
+
+- Geospatial Revolution video: <https://www.youtube.com/watch?v=ZdQjc30YPOk>
