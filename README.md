@@ -1,1 +1,1 @@
-# geo_in_R_class
+This is a geospatial module from an Introduction to R course taught by analysts at the Center for Army Analysis.  The focus is on using the ggmap and leaflet packages.  The data used was downloaded from THOR, https://data.world/datamil.  The module is written using a bookdown format.
